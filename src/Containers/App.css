@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Sans Serif Shaded';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Sans Serif Shaded'), url('SansSerifShaded.woff') format('woff');
+    }
+
+h1{
+    font-family: 'Sans Serif Shaded';
+    font-weight: 500;
+    font-size: 10vw;
+    color: Black;
+}
