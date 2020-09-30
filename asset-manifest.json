@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/IDK/static/css/main.614d3eee.chunk.css",
+    "main.js": "/IDK/static/js/main.d0d2f931.chunk.js",
+    "main.js.map": "/IDK/static/js/main.d0d2f931.chunk.js.map",
+    "runtime-main.js": "/IDK/static/js/runtime-main.e2ddfdf7.js",
+    "runtime-main.js.map": "/IDK/static/js/runtime-main.e2ddfdf7.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/IDK/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.e7e24cc0.chunk.js": "/IDK/static/js/2.e7e24cc0.chunk.js",
+    "static/js/2.e7e24cc0.chunk.js.map": "/IDK/static/js/2.e7e24cc0.chunk.js.map",
+    "index.html": "/IDK/index.html",
+    "precache-manifest.4e1cf5ef94b95720c9493a08b10ad58f.js": "/IDK/precache-manifest.4e1cf5ef94b95720c9493a08b10ad58f.js",
+    "service-worker.js": "/IDK/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/IDK/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.614d3eee.chunk.css.map": "/IDK/static/css/main.614d3eee.chunk.css.map",
+    "static/js/2.e7e24cc0.chunk.js.LICENSE.txt": "/IDK/static/js/2.e7e24cc0.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/IDK/static/media/SansSerifShaded.61be1af1.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e2ddfdf7.js",
+    "static/css/2.3c03f26f.chunk.css",
+    "static/js/2.e7e24cc0.chunk.js",
+    "static/css/main.614d3eee.chunk.css",
+    "static/js/main.d0d2f931.chunk.js"
+  ]
+}
